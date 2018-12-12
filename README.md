@@ -3,12 +3,14 @@
 Create random dot stereograms.
 
 Usage:
-    ./stereo.py input.png
+
+    python3 stereo.py input.png
 
 where input.png is a greyscale image encoding 3D depth.
 
 
 ## Sample input and output:
+(Cross-eyed viewing)
 
 ![Example image](images/sample1.png)
 
